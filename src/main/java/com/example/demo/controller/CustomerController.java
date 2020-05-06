@@ -9,4 +9,8 @@ public String saveCustomerDetails()
 {
 return "Customer Controller Modified";
 }
+public String updateCustomer()
+{
+	return "Customer Details Updated";
+}
 }
